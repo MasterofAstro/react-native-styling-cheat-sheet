@@ -59,12 +59,16 @@ Most of the React Native styling material in one page. Imported from the [offici
 | maxWidth | [number](#number) | auto* | `maxWidth` is the maximum width for this component, in logical pixels. It works similarly to `max-width` in CSS, but in React Native you must use logical pixel units, rather than percents, ems, or any of that. See http://www.w3schools.com/cssref/pr_dim_max-width.asp for more details. |
 | minHeight | [number](#number) | auto* | `minHeight` is the minimum height for this component, in logical pixels. It works similarly to `min-height` in CSS, but in React Native you must use logical pixel units, rather than percents, ems, or any of that. See http://www.w3schools.com/cssref/pr_dim_min-height.asp for more details. |
 | minWidth | [number](#number) | auto* | `minWidth` is the minimum width for this component, in logical pixels. It works similarly to `min-width` in CSS, but in React Native you must use logical pixel units, rather than percents, ems, or any of that. See http://www.w3schools.com/cssref/pr_dim_min-width.asp for more details. |
-| padding | [number](#number), [string](#string) | 0 | `padding` works like `padding` in CSS. It's like setting each of `paddingTop`, `paddingBottom`, `paddingLeft`, and `paddingRight` to the same thing. See http://www.w3schools.com/css/css_padding.asp for more details. |
-| paddingBottom | [number](#number), [string](#string) | 0 | `paddingBottom` works like `padding-bottom` in CSS. See http://www.w3schools.com/cssref/pr_padding-bottom.asp for more details. |
+| padding | [number](#number), [string](#string) | 0 | `padding` works like `padding` in CSS. It's like setting each of `paddingTop`, `paddingBottom`, `paddingLeft`, and `paddingRight` to the same thing. See https://elementtutorials.com/css/css-padding.html for more details. |
+| paddingBottom | [number](#number), [string](#string) | 0 | `paddingBottom` works like `padding-bottom` in CSS. See https://elementtutorials.com/css/css-padding.html
+ for more details. |
 | paddingHorizontal | [number](#number), [string](#string) | 0 | Setting `paddingHorizontal` is like setting both of `paddingLeft` and `paddingRight`. |
-| paddingLeft | [number](#number), [string](#string) | 0 | `paddingLeft` works like `padding-left` in CSS. See http://www.w3schools.com/cssref/pr_padding-left.asp for more details. |
-| paddingRight | [number](#number), [string](#string) | 0 | `paddingRight` works like `padding-right` in CSS. See http://www.w3schools.com/cssref/pr_padding-right.asp for more details. |
-| paddingTop | [number](#number), [string](#string) | 0 | `paddingTop` works like `padding-top` in CSS. See http://www.w3schools.com/cssref/pr_padding-top.asp for more details. |
+| paddingLeft | [number](#number), [string](#string) | 0 | `paddingLeft` works like `padding-left` in CSS. See https://elementtutorials.com/css/css-padding.html
+ for more details. |
+| paddingRight | [number](#number), [string](#string) | 0 | `paddingRight` works like `padding-right` in CSS. See https://elementtutorials.com/css/css-padding.html
+ for more details. |
+| paddingTop | [number](#number), [string](#string) | 0 | `paddingTop` works like `padding-top` in CSS. See https://elementtutorials.com/css/css-padding.html
+ for more details. |
 | paddingVertical | [number](#number), [string](#string) | 0 | Setting `paddingVertical` is like setting both of `paddingTop` and `paddingBottom`. |
 | paddingEnd | [number](#number), [string](#string) | 0 | When direction is `ltr`, `paddingEnd` is equivalent to `paddingRight`. When direction is `rtl`, `paddingEnd` is equivalent to `paddingLeft`. |
 | paddingStart | [number](#number), [string](#string) | 0 | When direction is `ltr`, `paddingStart` is equivalent to `paddingLeft`. When direction is `rtl`, `paddingStart` is equivalent to `paddingRight`. |
